@@ -895,7 +895,7 @@ body {
     position: absolute;
     top: 100%;
     right: -100%;
-    width: 50%;
+    width: 70%;
     height: 29vh;
     background: var(--main-color);
     display: flex;
@@ -1135,7 +1135,7 @@ body {
     position: absolute;
     top: 100%;
     right: -100%;
-    width: 50%;
+    width: 70%;
     height: 29vh;
     background: var(--main-color);
     display: flex;
